@@ -1,0 +1,14 @@
+name: olySpell
+main: com.olympuspvp.Spell.olySpell
+version: 1.1
+author: willno123
+description: Admin Spells
+
+commands:
+    Burn:
+        description: Burns
+    Transmute:
+        description: Changes metals and stuff
+    Quatro:
+        description: Eliminates problems
+        
